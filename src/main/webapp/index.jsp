@@ -107,6 +107,9 @@
             <option value="USA">USA</option>
             <option value="UK">UK</option>
             <option value="Other">Other</option>
+	    <option value="shyam">UK</option>
+	    <option value="radha">UK</option>
+	    <option value="kanha">UK</option>
         </select>
 
         <button type="submit">Register</button>
