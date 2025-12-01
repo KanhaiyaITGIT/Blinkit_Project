@@ -100,6 +100,12 @@
         <input type="checkbox" name="hobbies" value="Gaming"> Gaming
         <input type="checkbox" name="hobbies" value="Traveling"> Traveling
 
+	<label>pushnow</label>
+        <input type="checkbox" name="hobbies" value="Reading"> pull
+        <input type="checkbox" name="hobbies" value="Gaming"> pushing
+        <input type="checkbox" name="hobbies" value="Traveling"> Traveling
+
+
 	<label>kanhaiya Brand</label>
         <input type="checkbox" name="hobbies" value="Reading"> radhe-radhe
         <input type="checkbox" name="hobbies" value="Gaming"> shyam
