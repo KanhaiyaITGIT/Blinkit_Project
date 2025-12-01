@@ -100,6 +100,11 @@
         <input type="checkbox" name="hobbies" value="Gaming"> Gaming
         <input type="checkbox" name="hobbies" value="Traveling"> Traveling
 
+	<label>kanhaiya Brand</label>
+        <input type="checkbox" name="hobbies" value="Reading"> radhe-radhe
+        <input type="checkbox" name="hobbies" value="Gaming"> shyam
+        <input type="checkbox" name="hobbies" value="Traveling"> Traveling
+
         <label for="country">Country</label>
         <select name="country" id="country" required>
             <option value="">Select Country</option>
